@@ -10,3 +10,8 @@ logging:
         eureka: 'OFF'
 server:
   port: 8761
+spring:
+  security:
+    user:
+      name: netflix
+      password: eureka
