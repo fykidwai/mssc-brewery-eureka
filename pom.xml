@@ -9,7 +9,7 @@
     </parent>
     <groupId>io.github.fykidwai</groupId>
     <artifactId>mssc-brewery-eureka</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>mssc-brewery-eureka</name>
     <description>Brewery Eureka Server</description>
     <properties>
@@ -179,7 +179,7 @@
         <url>https://github.com/fykidwai/mssc-brewery-eureka</url>
         <connection>scm:git:https://github.com/fykidwai/mssc-brewery-eureka</connection>
         <developerConnection>scm:git:https://fykidwai@github.com/fykidwai/mssc-brewery-eureka</developerConnection>
-        <tag>mssc-brewery-eureka-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
     <issueManagement>
         <url>https://github.com/fykidwai/mssc-brewery-eureka/issues</url>
